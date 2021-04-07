@@ -1,4 +1,4 @@
-# cbc-census
+# Census Data
 
 A handful of census datasets used for CBC visuals and stories.
 
