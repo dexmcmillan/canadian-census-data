@@ -7,7 +7,7 @@ import numpy as np
 df = pd.read_csv("./data.csv")
 
 # Filter for only Ontario FSAs (starting with K, L, N, or P)
-ontario = df[df["GEO_NAME"].str.contains("[K|L|N|P][0-9][A-Z]", regex=True)]
+ontario = df[df["GEO_NAME"].str.contains("[K|L|N|P|M][0-9][A-Z]", regex=True)]
 
 # Get only the total visible minority rows.
 minorities = ontario[ontario["DIM: Profile of Forward Sortation Areas (2247)"].str.contains("Total - Visible minorit")]
