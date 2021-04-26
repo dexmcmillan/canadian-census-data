@@ -114,7 +114,8 @@ dmypy.json
 .pyre/
 
 # File is too large for github.
-data.csv
+data-all.csv
+data-ontario-fsa.csv
 
 # Leave archive behind.
 /archive

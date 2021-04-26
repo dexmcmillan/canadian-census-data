@@ -1,0 +1,523 @@
+﻿FSA,Public Health Unit,"COVID-19 cases
+(per 100)","COVID-10 hospitalizations/deaths
+(per 1,000)","% Vaccinated with at least 1 dose
+(All ages)","% Vaccinated with at least 1 dose
+(Ages 80+)","% Vaccinated with at least 1 dose
+(Ages 70-79)","% Vaccinated with at least 1 dose
+(Ages 60-69)","% Vaccinated with at least 1 dose
+(Ages 50-59)","% Vaccinated with at least 1 dose
+(Ages 40-49)"
+K0A,SHARED FSA,1.18,0.28,0.22,0.85,0.76,0.35,0.22,0.12
+K0B,2258 Eastern Ontario Health Unit,1.27,0.83,0.19,0.76,0.68,0.18,0.14,0.11
+K0C,SHARED FSA,1.37,0.85,0.21,0.78,0.68,0.20,0.17,0.13
+K0E,SHARED FSA,0.57,0.24,0.21,0.82,0.55,0.24,0.17,0.13
+K0G,SHARED FSA,0.76,0.31,0.23,0.87,0.59,0.31,0.20,0.13
+K0H,SHARED FSA,0.42,0.15,0.30,0.83,0.65,0.53,0.27,0.18
+K0J,SHARED FSA,0.42,0.17,0.24,0.80,0.62,0.26,0.22,0.14
+K0K,SHARED FSA,0.41,0.17,0.22,0.82,0.61,0.26,0.18,0.13
+K0L,SHARED FSA,0.49,0.15,0.28,0.81,0.71,0.40,0.21,0.14
+K0M,SHARED FSA,0.65,0.35,0.31,0.83,0.77,0.44,0.20,0.12
+K1B,2251 Ottawa Public Health,1.68,0.82,0.20,0.81,0.80,0.37,0.20,0.10
+K1C,2251 Ottawa Public Health,1.52,0.88,0.27,0.85,0.84,0.52,0.26,0.11
+K1E,2251 Ottawa Public Health,1.14,0.60,0.27,0.88,0.82,0.47,0.26,0.10
+K1G,2251 Ottawa Public Health,2.42,1.57,0.21,0.81,0.73,0.36,0.18,0.11
+K1H,2251 Ottawa Public Health,1.83,1.76,0.31,0.81,0.79,0.49,0.31,0.20
+K1J,2251 Ottawa Public Health,1.93,1.23,0.22,0.81,0.78,0.38,0.20,0.10
+K1K,2251 Ottawa Public Health,2.40,1.50,0.21,0.80,0.72,0.31,0.17,0.10
+K1L,2251 Ottawa Public Health,1.78,1.69,0.19,0.78,0.66,0.28,0.18,0.09
+K1M,2251 Ottawa Public Health,1.24,1.49,0.31,0.87,0.83,0.49,0.27,0.08
+K1N,2251 Ottawa Public Health,2.77,1.24,0.19,0.80,0.71,0.35,0.21,0.09
+K1P,2251 Ottawa Public Health,1.30,3.89,0.13,<100%,0.68,0.40,0.24,
+K1R,2251 Ottawa Public Health,1.48,0.83,0.16,0.70,0.66,0.30,0.17,0.07
+K1S,2251 Ottawa Public Health,1.29,0.38,0.25,0.87,0.82,0.50,0.29,0.11
+K1T,2251 Ottawa Public Health,3.07,1.25,0.18,0.73,0.71,0.36,0.37,0.12
+K1V,2251 Ottawa Public Health,2.59,0.93,0.22,0.81,0.76,0.38,0.36,0.12
+K1W,2251 Ottawa Public Health,2.67,0.93,0.20,0.80,0.81,0.48,0.24,0.13
+K1X,2251 Ottawa Public Health,1.44,0.76,0.12,0.68,0.71,0.29,0.17,0.10
+K1Y,2251 Ottawa Public Health,1.17,0.64,0.24,0.80,0.77,0.44,0.28,0.14
+K1Z,2251 Ottawa Public Health,1.87,1.01,0.19,0.80,0.74,0.36,0.20,0.11
+K2A,2251 Ottawa Public Health,0.93,0.78,0.30,0.83,0.81,0.50,0.30,0.14
+K2B,2251 Ottawa Public Health,2.34,1.26,0.20,0.79,0.74,0.32,0.17,0.09
+K2C,2251 Ottawa Public Health,1.79,1.09,0.22,0.84,0.77,0.36,0.21,0.11
+K2E,2251 Ottawa Public Health,1.85,0.90,0.24,0.86,0.84,0.41,0.24,0.10
+K2G,2251 Ottawa Public Health,1.68,0.59,0.21,0.82,0.79,0.40,0.21,0.11
+K2H,2251 Ottawa Public Health,1.51,1.52,0.28,0.88,0.83,0.45,0.25,0.11
+K2J,2251 Ottawa Public Health,1.56,0.53,0.16,0.73,0.74,0.40,0.21,0.11
+K2K,2251 Ottawa Public Health,1.02,0.53,0.25,0.85,0.82,0.52,0.23,0.08
+K2L,2251 Ottawa Public Health,1.23,1.20,0.24,0.79,0.81,0.48,0.24,0.12
+K2M,2251 Ottawa Public Health,1.29,0.44,0.20,0.81,0.79,0.52,0.24,0.12
+K2P,2251 Ottawa Public Health,1.59,0.74,0.19,0.74,0.70,0.35,0.20,0.09
+K2R,2251 Ottawa Public Health,1.16,2.18,0.28,0.83,0.80,0.47,0.27,0.12
+K2S,2251 Ottawa Public Health,1.28,0.50,0.22,0.87,0.83,0.52,0.28,0.12
+K2T,2251 Ottawa Public Health,0.64,0.23,0.15,0.63,0.67,0.44,0.17,0.07
+K2V,2251 Ottawa Public Health,1.94,0.35,0.14,0.75,0.77,0.48,0.29,0.09
+K2W,2251 Ottawa Public Health,1.17,0.31,0.14,0.67,0.76,0.42,0.18,0.09
+K4A,2251 Ottawa Public Health,2.14,0.92,0.19,0.80,0.80,0.48,0.23,0.11
+K4B,2251 Ottawa Public Health,1.40,0.58,0.24,0.80,0.79,0.43,0.21,0.14
+K4C,2251 Ottawa Public Health,2.22,0.64,0.27,0.87,0.83,0.48,0.26,0.16
+K4K,2258 Eastern Ontario Health Unit,1.51,0.77,0.22,0.87,0.79,0.32,0.19,0.11
+K4M,2251 Ottawa Public Health,1.32,0.50,0.25,0.86,0.83,0.46,0.24,0.14
+K4P,2251 Ottawa Public Health,1.62,0.82,0.22,0.81,0.78,0.40,0.23,0.14
+K4R,SHARED FSA,1.37,0.67,0.19,0.85,0.72,0.26,0.22,0.12
+K6A,2258 Eastern Ontario Health Unit,1.56,1.90,0.22,0.75,0.67,0.15,0.15,0.11
+K6H,2258 Eastern Ontario Health Unit,2.24,1.97,0.18,0.76,0.67,0.15,0.15,0.10
+K6J,2258 Eastern Ontario Health Unit,1.83,1.82,0.20,0.77,0.66,0.16,0.16,0.11
+K6K,2258 Eastern Ontario Health Unit,1.63,0.84,0.22,0.77,0.78,0.18,0.20,0.13
+K6T,"2243 Leeds, Grenville and Lanark District Health Unit",0.46,0.00,0.27,<100%,0.63,0.39,0.31,0.19
+K6V,"2243 Leeds, Grenville and Lanark District Health Unit",0.33,0.10,0.26,0.86,0.62,0.28,0.20,0.14
+K7A,SHARED FSA,0.76,0.65,0.19,0.86,0.46,0.23,0.16,0.13
+K7C,"2243 Leeds, Grenville and Lanark District Health Unit",0.88,0.58,0.23,0.89,0.64,0.36,0.26,0.13
+K7G,SHARED FSA,0.87,0.33,0.31,0.88,0.63,0.44,0.23,0.17
+K7H,"2243 Leeds, Grenville and Lanark District Health Unit",1.47,1.91,0.28,0.89,0.56,0.37,0.22,0.16
+K7K,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",0.42,0.08,0.24,0.80,0.63,0.57,0.26,0.15
+K7L,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",1.49,0.00,0.36,0.87,0.72,0.65,0.34,0.21
+K7M,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",0.42,0.19,0.33,0.87,0.69,0.61,0.33,0.21
+K7N,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",0.44,0.34,0.28,0.86,0.63,0.57,0.31,0.25
+K7P,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",0.42,0.12,0.29,0.86,0.68,0.61,0.30,0.24
+K7R,"2241 Kingston, Frontenac and Lennox & Addington Health Unit",0.29,0.00,0.28,0.83,0.62,0.44,0.22,0.19
+K7S,SHARED FSA,0.50,0.20,0.24,0.91,0.65,0.27,0.23,0.12
+K7V,2257 Renfrew County and District Health Unit,0.53,0.21,0.23,0.86,0.52,0.23,0.22,0.15
+K8A,2257 Renfrew County and District Health Unit,0.45,0.21,0.23,0.83,0.63,0.25,0.23,0.14
+K8B,2257 Renfrew County and District Health Unit,0.60,0.00,0.23,<100%,0.58,0.28,0.21,0.33
+K8H,2257 Renfrew County and District Health Unit,0.42,0.20,0.13,0.84,0.67,0.22,0.19,0.12
+K8N,2238 Hastings and Prince Edward Counties Health Unit,0.61,0.24,0.25,0.86,0.74,0.27,0.22,0.13
+K8P,2238 Hastings and Prince Edward Counties Health Unit,0.38,0.29,0.21,0.86,0.70,0.22,0.17,0.12
+K8R,2238 Hastings and Prince Edward Counties Health Unit,0.47,0.00,0.24,0.89,0.72,0.29,0.23,0.17
+K8V,2238 Hastings and Prince Edward Counties Health Unit,0.50,0.23,0.18,0.81,0.64,0.16,0.15,0.10
+K9A,"2235 Haliburton, Kawartha, Pine Ridge District Health Unit",0.92,0.35,0.29,0.88,0.76,0.29,0.25,0.13
+K9H,2255 Peterborough County-City Health Unit,0.61,0.39,0.27,0.88,0.76,0.41,0.23,0.14
+K9J,SHARED FSA,0.61,0.54,0.27,0.87,0.75,0.43,0.22,0.14
+K9K,2255 Peterborough County-City Health Unit,0.88,0.21,0.32,0.88,0.82,0.45,0.29,0.19
+K9L,2255 Peterborough County-City Health Unit,0.52,0.36,0.29,0.86,0.81,0.46,0.28,0.14
+K9V,"2235 Haliburton, Kawartha, Pine Ridge District Health Unit",0.65,0.36,0.29,0.88,0.77,0.35,0.23,0.16
+L0A,SHARED FSA,0.65,0.00,0.22,0.81,0.71,0.37,0.21,0.14
+L0B,SHARED FSA,0.99,0.83,0.29,0.82,0.78,0.59,0.28,0.14
+L0C,SHARED FSA,0.96,0.75,0.29,0.82,0.77,0.62,0.28,0.14
+L0E,SHARED FSA,1.35,0.84,0.25,0.77,0.75,0.48,0.22,0.14
+L0G,SHARED FSA,2.40,1.06,0.22,0.77,0.76,0.48,0.25,0.11
+L0H,SHARED FSA,1.84,0.00,0.30,0.81,0.70,0.66,0.25,0.11
+L0J,2270 York Region Public Health Services,5.01,2.06,0.27,0.81,0.76,0.66,0.40,0.15
+L0K,SHARED FSA,0.61,0.42,0.26,0.77,0.73,0.33,0.23,0.16
+L0L,2260 Simcoe Muskoka District Health Unit,1.05,0.49,0.24,0.80,0.76,0.34,0.25,0.16
+L0M,SHARED FSA,1.13,0.62,0.17,0.78,0.71,0.29,0.18,0.11
+L0N,SHARED FSA,1.10,0.42,0.29,0.76,0.76,0.56,0.26,0.11
+L0P,SHARED FSA,1.88,1.06,0.27,0.80,0.80,0.54,0.26,0.10
+L0R,SHARED FSA,2.30,0.94,0.23,0.84,0.80,0.44,0.24,0.13
+L0S,2246 Niagara Region Public Health Department,1.65,1.09,0.33,0.84,0.81,0.42,0.29,0.20
+L1A,SHARED FSA,0.84,0.18,0.26,0.89,0.76,0.28,0.20,0.13
+L1B,SHARED FSA,1.23,1.51,0.33,0.87,0.87,0.68,0.26,0.18
+L1C,2230 Durham Region Health Department,1.47,0.66,0.22,0.85,0.80,0.60,0.24,0.17
+L1E,2230 Durham Region Health Department,1.48,0.43,0.23,0.80,0.78,0.62,0.28,0.17
+L1G,2230 Durham Region Health Department,1.68,0.78,0.28,0.84,0.80,0.57,0.24,0.13
+L1H,2230 Durham Region Health Department,1.64,0.99,0.22,0.80,0.74,0.50,0.19,0.10
+L1J,2230 Durham Region Health Department,1.76,0.81,0.22,0.79,0.74,0.52,0.21,0.12
+L1K,2230 Durham Region Health Department,2.03,0.81,0.20,0.81,0.78,0.58,0.24,0.15
+L1L,2230 Durham Region Health Department,2.71,0.72,0.13,0.71,0.71,0.51,0.20,0.12
+L1M,2230 Durham Region Health Department,1.37,0.51,0.21,0.83,0.84,0.71,0.27,0.17
+L1N,2230 Durham Region Health Department,1.77,0.95,0.28,0.83,0.81,0.66,0.27,0.13
+L1P,2230 Durham Region Health Department,2.45,0.97,0.19,0.78,0.77,0.66,0.26,0.14
+L1R,2230 Durham Region Health Department,2.12,1.19,0.22,0.80,0.78,0.66,0.26,0.14
+L1S,2230 Durham Region Health Department,3.03,1.54,0.27,0.78,0.79,0.62,0.35,0.12
+L1T,2230 Durham Region Health Department,3.91,1.36,0.20,0.69,0.69,0.56,0.34,0.12
+L1V,2230 Durham Region Health Department,3.39,1.90,0.28,0.80,0.79,0.65,0.39,0.13
+L1W,2230 Durham Region Health Department,2.27,0.97,0.27,0.83,0.81,0.62,0.27,0.12
+L1X,2230 Durham Region Health Department,4.44,1.87,0.21,0.71,0.74,0.62,0.36,0.11
+L1Y,2230 Durham Region Health Department,1.80,1.42,0.29,0.86,0.79,0.61,0.32,0.16
+L1Z,2230 Durham Region Health Department,3.88,1.23,0.16,0.69,0.63,0.54,0.32,0.12
+L2A,2246 Niagara Region Public Health Department,1.55,1.34,0.24,0.74,0.69,0.32,0.22,0.14
+L2E,2246 Niagara Region Public Health Department,1.98,1.75,0.22,0.77,0.69,0.27,0.19,0.10
+L2G,2246 Niagara Region Public Health Department,2.33,1.27,0.22,0.80,0.74,0.29,0.17,0.12
+L2H,2246 Niagara Region Public Health Department,2.56,2.39,0.22,0.78,0.76,0.35,0.22,0.17
+L2J,2246 Niagara Region Public Health Department,1.97,2.14,0.30,0.85,0.80,0.41,0.26,0.15
+L2M,2246 Niagara Region Public Health Department,2.02,1.27,0.26,0.82,0.76,0.32,0.21,0.16
+L2N,2246 Niagara Region Public Health Department,1.94,1.39,0.32,0.85,0.82,0.35,0.26,0.19
+L2P,2246 Niagara Region Public Health Department,1.89,0.91,0.20,0.81,0.76,0.25,0.20,0.13
+L2R,2246 Niagara Region Public Health Department,2.35,1.08,0.20,0.80,0.72,0.29,0.20,0.14
+L2S,2246 Niagara Region Public Health Department,2.22,0.81,0.24,0.84,0.78,0.31,0.26,0.20
+L2T,2246 Niagara Region Public Health Department,2.05,0.25,0.27,0.84,0.79,0.35,0.25,0.17
+L2V,2246 Niagara Region Public Health Department,2.58,1.11,0.21,0.82,0.77,0.27,0.21,0.16
+L2W,2246 Niagara Region Public Health Department,1.49,1.35,0.26,0.85,0.87,0.42,0.34,0.28
+L3B,2246 Niagara Region Public Health Department,2.25,1.20,0.21,0.80,0.72,0.27,0.18,0.13
+L3C,2246 Niagara Region Public Health Department,2.56,1.42,0.28,0.85,0.80,0.34,0.25,0.19
+L3K,2246 Niagara Region Public Health Department,1.40,0.75,0.29,0.84,0.76,0.35,0.24,0.16
+L3M,2246 Niagara Region Public Health Department,1.70,0.90,0.25,0.85,0.82,0.34,0.25,0.15
+L3P,2270 York Region Public Health Services,1.79,1.32,0.29,0.76,0.79,0.65,0.24,0.11
+L3R,2270 York Region Public Health Services,1.98,1.47,0.24,0.69,0.72,0.54,0.17,0.08
+L3S,2270 York Region Public Health Services,4.67,2.10,0.25,0.59,0.68,0.55,0.38,0.26
+L3T,2270 York Region Public Health Services,2.34,1.38,0.30,0.74,0.77,0.61,0.25,0.14
+L3V,SHARED FSA,0.56,0.41,0.27,0.85,0.77,0.31,0.24,0.18
+L3X,2270 York Region Public Health Services,2.38,1.25,0.18,0.69,0.73,0.53,0.23,0.12
+L3Y,2270 York Region Public Health Services,2.12,1.41,0.28,0.83,0.82,0.60,0.27,0.13
+L3Z,SHARED FSA,3.31,2.07,0.18,0.74,0.69,0.42,0.36,0.11
+L4A,SHARED FSA,2.22,1.11,0.25,0.81,0.80,0.66,0.25,0.12
+L4B,2270 York Region Public Health Services,1.73,0.75,0.25,0.59,0.70,0.56,0.22,0.12
+L4C,2270 York Region Public Health Services,2.95,1.48,0.27,0.73,0.74,0.56,0.24,0.14
+L4E,2270 York Region Public Health Services,2.56,0.89,0.18,0.62,0.68,0.50,0.22,0.12
+L4G,2270 York Region Public Health Services,1.94,0.98,0.23,0.80,0.77,0.60,0.27,0.12
+L4H,2270 York Region Public Health Services,5.73,2.10,0.18,0.69,0.68,0.53,0.28,0.12
+L4J,2270 York Region Public Health Services,3.64,2.08,0.36,0.73,0.74,0.64,0.50,0.39
+L4K,2270 York Region Public Health Services,4.73,1.87,0.27,0.70,0.70,0.52,0.37,0.26
+L4L,2270 York Region Public Health Services,5.17,3.00,0.33,0.80,0.78,0.59,0.40,0.26
+L4M,2260 Simcoe Muskoka District Health Unit,1.33,0.77,0.21,0.84,0.77,0.31,0.24,0.14
+L4N,2260 Simcoe Muskoka District Health Unit,1.68,0.94,0.19,0.83,0.76,0.33,0.22,0.14
+L4P,2270 York Region Public Health Services,1.93,1.11,0.20,0.78,0.78,0.46,0.21,0.12
+L4R,2260 Simcoe Muskoka District Health Unit,0.90,1.07,0.31,0.84,0.80,0.38,0.29,0.19
+L4S,2270 York Region Public Health Services,1.93,0.97,0.20,0.62,0.67,0.54,0.19,0.10
+L4T,2253 Peel Public Health,6.29,3.03,0.17,0.62,0.61,0.48,0.29,0.07
+L4W,2253 Peel Public Health,3.32,1.96,0.31,0.74,0.74,0.64,0.33,0.10
+L4X,2253 Peel Public Health,3.03,2.06,0.20,0.71,0.67,0.51,0.25,0.08
+L4Y,2253 Peel Public Health,2.88,1.99,0.25,0.77,0.72,0.58,0.23,0.08
+L4Z,2253 Peel Public Health,3.43,1.83,0.23,0.64,0.68,0.60,0.35,0.09
+L5A,2253 Peel Public Health,3.76,2.24,0.22,0.70,0.68,0.53,0.29,0.08
+L5B,2253 Peel Public Health,3.09,1.52,0.20,0.72,0.69,0.55,0.30,0.09
+L5C,2253 Peel Public Health,3.08,1.58,0.25,0.72,0.72,0.61,0.32,0.10
+L5E,2253 Peel Public Health,2.47,0.83,0.26,0.75,0.70,0.60,0.26,0.10
+L5G,2253 Peel Public Health,2.24,1.49,0.28,0.79,0.74,0.65,0.33,0.11
+L5H,2253 Peel Public Health,1.96,1.11,0.30,0.76,0.77,0.70,0.37,0.15
+L5J,2253 Peel Public Health,1.90,1.64,0.26,0.81,0.77,0.65,0.29,0.09
+L5K,2253 Peel Public Health,3.06,1.66,0.27,0.77,0.80,0.66,0.40,0.13
+L5L,2253 Peel Public Health,2.70,1.90,0.30,0.77,0.79,0.70,0.39,0.12
+L5M,2253 Peel Public Health,2.70,1.33,0.23,0.68,0.70,0.64,0.41,0.11
+L5N,2253 Peel Public Health,2.77,1.14,0.24,0.70,0.72,0.65,0.39,0.11
+L5R,2253 Peel Public Health,3.51,2.01,0.26,0.69,0.71,0.63,0.37,0.10
+L5V,2253 Peel Public Health,3.57,1.63,0.23,0.64,0.68,0.63,0.40,0.10
+L5W,2253 Peel Public Health,4.52,2.00,0.20,0.57,0.62,0.59,0.42,0.11
+L6A,2270 York Region Public Health Services,4.83,2.05,0.26,0.71,0.69,0.54,0.41,0.33
+L6B,2270 York Region Public Health Services,3.13,1.10,0.17,0.64,0.69,0.60,0.21,0.11
+L6C,2270 York Region Public Health Services,1.51,0.65,0.19,0.54,0.66,0.56,0.17,0.09
+L6E,2270 York Region Public Health Services,2.22,1.00,0.18,0.68,0.68,0.54,0.16,0.09
+L6G,2270 York Region Public Health Services,1.52,0.40,0.19,0.73,0.70,0.54,0.16,0.07
+L6H,2236 Halton Region Health Department,1.85,0.64,0.21,0.78,0.77,0.66,0.23,0.09
+L6J,2236 Halton Region Health Department,1.36,0.46,0.28,0.84,0.82,0.73,0.29,0.10
+L6K,2236 Halton Region Health Department,2.04,1.13,0.27,0.81,0.76,0.62,0.23,0.09
+L6L,2236 Halton Region Health Department,1.43,0.57,0.29,0.85,0.83,0.68,0.24,0.11
+L6M,2236 Halton Region Health Department,1.59,0.52,0.18,0.78,0.74,0.66,0.20,0.09
+L6P,2253 Peel Public Health,8.29,2.61,0.19,0.62,0.66,0.61,0.36,0.11
+L6R,2253 Peel Public Health,7.07,2.46,0.19,0.61,0.66,0.61,0.38,0.10
+L6S,2253 Peel Public Health,5.14,2.35,0.24,0.71,0.75,0.65,0.33,0.10
+L6T,2253 Peel Public Health,5.31,2.60,0.19,0.74,0.67,0.55,0.27,0.08
+L6V,2253 Peel Public Health,4.79,1.97,0.19,0.66,0.66,0.56,0.28,0.08
+L6W,2253 Peel Public Health,5.02,2.46,0.24,0.74,0.72,0.60,0.30,0.10
+L6X,2253 Peel Public Health,5.57,1.92,0.17,0.60,0.62,0.57,0.29,0.09
+L6Y,2253 Peel Public Health,5.74,2.26,0.19,0.70,0.65,0.58,0.31,0.09
+L6Z,2253 Peel Public Health,4.38,1.48,0.24,0.67,0.73,0.68,0.41,0.11
+L7A,2253 Peel Public Health,5.61,1.81,0.14,0.55,0.59,0.56,0.32,0.09
+L7B,2270 York Region Public Health Services,3.20,0.99,0.22,0.75,0.77,0.60,0.25,0.12
+L7C,2253 Peel Public Health,4.95,1.48,0.22,0.75,0.74,0.68,0.40,0.13
+L7E,SHARED FSA,3.31,0.81,0.22,0.80,0.77,0.67,0.25,0.11
+L7G,2236 Halton Region Health Department,2.07,1.64,0.22,0.85,0.82,0.56,0.21,0.12
+L7J,SHARED FSA,1.36,0.47,0.21,0.83,0.79,0.47,0.18,0.11
+L7K,2253 Peel Public Health,2.12,0.97,0.26,0.73,0.73,0.69,0.30,0.12
+L7L,2236 Halton Region Health Department,1.46,0.69,0.23,0.88,0.83,0.53,0.22,0.11
+L7M,2236 Halton Region Health Department,1.66,0.65,0.23,0.84,0.82,0.58,0.25,0.11
+L7N,2236 Halton Region Health Department,1.35,0.84,0.31,0.87,0.84,0.54,0.26,0.13
+L7P,2236 Halton Region Health Department,1.57,0.75,0.26,0.86,0.83,0.51,0.25,0.11
+L7R,SHARED FSA,1.52,0.74,0.28,0.85,0.83,0.51,0.27,0.10
+L7S,2236 Halton Region Health Department,1.69,1.23,0.33,0.87,0.82,0.46,0.24,0.10
+L7T,2236 Halton Region Health Department,1.36,0.97,0.32,0.88,0.83,0.51,0.26,0.11
+L8B,2237 City of Hamilton - Public Health & Social Services,1.51,0.42,0.22,0.86,0.83,0.58,0.26,0.11
+L8E,2237 City of Hamilton - Public Health & Social Services,2.69,1.83,0.20,0.75,0.71,0.45,0.17,0.09
+L8G,2237 City of Hamilton - Public Health & Social Services,2.21,1.68,0.29,0.82,0.75,0.49,0.19,0.10
+L8H,2237 City of Hamilton - Public Health & Social Services,2.08,1.62,0.17,0.70,0.65,0.38,0.14,0.08
+L8J,2237 City of Hamilton - Public Health & Social Services,2.99,1.19,0.17,0.74,0.73,0.47,0.20,0.11
+L8K,2237 City of Hamilton - Public Health & Social Services,2.47,1.86,0.23,0.77,0.71,0.46,0.17,0.09
+L8L,2237 City of Hamilton - Public Health & Social Services,2.50,2.25,0.16,0.62,0.58,0.37,0.26,0.09
+L8M,2237 City of Hamilton - Public Health & Social Services,2.09,5.25,0.18,0.67,0.64,0.43,0.17,0.10
+L8N,2237 City of Hamilton - Public Health & Social Services,2.99,2.66,0.19,0.68,0.62,0.35,0.26,0.11
+L8P,2237 City of Hamilton - Public Health & Social Services,2.07,3.03,0.27,0.79,0.73,0.49,0.26,0.12
+L8R,2237 City of Hamilton - Public Health & Social Services,2.54,2.56,0.17,0.72,0.65,0.37,0.15,0.08
+L8S,2237 City of Hamilton - Public Health & Social Services,2.21,2.09,0.23,0.78,0.79,0.46,0.24,0.14
+L8T,2237 City of Hamilton - Public Health & Social Services,2.53,2.56,0.25,0.82,0.78,0.49,0.23,0.11
+L8V,2237 City of Hamilton - Public Health & Social Services,2.49,2.87,0.25,0.78,0.73,0.42,0.23,0.12
+L8W,2237 City of Hamilton - Public Health & Social Services,2.96,1.83,0.21,0.76,0.72,0.45,0.32,0.12
+L9A,2237 City of Hamilton - Public Health & Social Services,2.70,1.65,0.22,0.79,0.74,0.44,0.21,0.12
+L9B,2237 City of Hamilton - Public Health & Social Services,2.92,2.47,0.25,0.86,0.80,0.51,0.23,0.13
+L9C,2237 City of Hamilton - Public Health & Social Services,2.76,1.51,0.26,0.83,0.81,0.50,0.33,0.14
+L9E,2236 Halton Region Health Department,3.32,1.04,0.10,0.79,0.67,0.38,0.15,0.06
+L9G,2237 City of Hamilton - Public Health & Social Services,1.85,0.79,0.31,0.84,0.84,0.66,0.31,0.16
+L9H,2237 City of Hamilton - Public Health & Social Services,1.27,1.05,0.34,0.86,0.86,0.63,0.30,0.15
+L9J,2260 Simcoe Muskoka District Health Unit,2.63,0.00,0.24,0.87,0.80,0.34,0.21,0.09
+L9K,2237 City of Hamilton - Public Health & Social Services,2.49,1.49,0.26,0.80,0.79,0.54,0.47,0.16
+L9L,2230 Durham Region Health Department,1.06,1.03,0.37,0.85,0.84,0.69,0.36,0.18
+L9M,2260 Simcoe Muskoka District Health Unit,1.09,1.66,0.35,0.87,0.75,0.38,0.35,0.28
+L9N,2270 York Region Public Health Services,2.58,1.25,0.18,0.72,0.76,0.47,0.21,0.12
+L9P,2230 Durham Region Health Department,1.26,1.22,0.32,0.86,0.81,0.68,0.35,0.16
+L9R,SHARED FSA,2.17,1.26,0.20,0.85,0.79,0.31,0.17,0.09
+L9S,2260 Simcoe Muskoka District Health Unit,1.97,1.13,0.18,0.83,0.73,0.29,0.17,0.10
+L9T,2236 Halton Region Health Department,2.88,0.92,0.14,0.75,0.71,0.45,0.18,0.10
+L9V,2266 Wellington-Dufferin-Guelph Health Unit,1.55,0.71,0.17,0.74,0.54,0.41,0.19,0.10
+L9W,SHARED FSA,1.91,0.93,0.19,0.80,0.61,0.39,0.22,0.12
+L9X,2260 Simcoe Muskoka District Health Unit,1.46,0.30,0.25,0.86,0.82,0.36,0.27,0.22
+L9Y,SHARED FSA,0.81,0.68,0.31,0.88,0.77,0.41,0.26,0.14
+L9Z,2260 Simcoe Muskoka District Health Unit,0.82,0.89,0.29,0.83,0.77,0.31,0.16,0.12
+M1B,3895 Toronto Public Health,5.42,2.78,0.22,0.62,0.68,0.57,0.28,0.12
+M1C,3895 Toronto Public Health,3.54,2.30,0.31,0.74,0.78,0.69,0.38,0.15
+M1E,3895 Toronto Public Health,4.12,2.62,0.25,0.75,0.71,0.57,0.30,0.14
+M1G,3895 Toronto Public Health,5.51,3.41,0.20,0.66,0.64,0.50,0.26,0.11
+M1H,3895 Toronto Public Health,4.78,2.95,0.22,0.71,0.66,0.52,0.26,0.12
+M1J,3895 Toronto Public Health,5.66,3.76,0.19,0.67,0.63,0.50,0.27,0.12
+M1K,3895 Toronto Public Health,4.45,3.02,0.21,0.66,0.63,0.50,0.29,0.13
+M1L,3895 Toronto Public Health,4.20,2.42,0.21,0.69,0.66,0.55,0.34,0.15
+M1M,3895 Toronto Public Health,3.99,3.26,0.28,0.72,0.68,0.61,0.41,0.15
+M1N,3895 Toronto Public Health,2.24,1.77,0.29,0.73,0.78,0.68,0.36,0.15
+M1P,3895 Toronto Public Health,4.84,3.20,0.21,0.69,0.66,0.50,0.24,0.11
+M1R,3895 Toronto Public Health,4.47,2.90,0.22,0.68,0.64,0.53,0.27,0.12
+M1S,3895 Toronto Public Health,2.92,1.92,0.24,0.64,0.67,0.50,0.21,0.11
+M1T,3895 Toronto Public Health,3.39,2.60,0.24,0.72,0.67,0.50,0.22,0.10
+M1V,3895 Toronto Public Health,3.20,2.27,0.23,0.61,0.66,0.49,0.19,0.08
+M1W,3895 Toronto Public Health,3.18,2.54,0.25,0.66,0.69,0.51,0.20,0.10
+M1X,3895 Toronto Public Health,6.96,3.06,0.23,0.56,0.72,0.60,0.36,0.12
+M2H,3895 Toronto Public Health,1.89,1.44,0.27,0.70,0.73,0.56,0.19,0.11
+M2J,3895 Toronto Public Health,2.81,1.81,0.23,0.71,0.69,0.54,0.30,0.15
+M2K,3895 Toronto Public Health,1.72,1.16,0.26,0.77,0.73,0.59,0.24,0.13
+M2L,3895 Toronto Public Health,2.09,1.99,0.31,0.73,0.77,0.69,0.34,0.16
+M2M,3895 Toronto Public Health,3.13,2.43,0.27,0.70,0.71,0.53,0.32,0.14
+M2N,3895 Toronto Public Health,1.58,1.01,0.22,0.73,0.70,0.54,0.23,0.11
+M2P,3895 Toronto Public Health,1.73,0.34,0.33,0.78,0.77,0.70,0.37,0.18
+M2R,3895 Toronto Public Health,5.72,3.46,0.25,0.67,0.66,0.50,0.33,0.16
+M3A,3895 Toronto Public Health,3.36,2.30,0.23,0.72,0.69,0.57,0.32,0.13
+M3B,3895 Toronto Public Health,1.38,1.26,0.34,0.82,0.80,0.69,0.33,0.18
+M3C,3895 Toronto Public Health,4.85,3.51,0.31,0.76,0.73,0.60,0.41,0.24
+M3H,3895 Toronto Public Health,4.44,3.28,0.30,0.70,0.72,0.64,0.47,0.24
+M3J,3895 Toronto Public Health,6.32,3.46,0.20,0.69,0.64,0.50,0.28,0.12
+M3K,3895 Toronto Public Health,6.48,3.08,0.24,0.70,0.71,0.58,0.35,0.16
+M3L,3895 Toronto Public Health,7.96,4.77,0.22,0.71,0.65,0.52,0.31,0.13
+M3M,3895 Toronto Public Health,7.12,4.04,0.23,0.70,0.65,0.54,0.33,0.13
+M3N,3895 Toronto Public Health,8.12,6.28,0.20,0.63,0.54,0.43,0.25,0.19
+M4A,3895 Toronto Public Health,3.98,2.82,0.28,0.77,0.70,0.62,0.37,0.13
+M4B,3895 Toronto Public Health,2.71,2.53,0.24,0.70,0.70,0.60,0.30,0.12
+M4C,3895 Toronto Public Health,2.68,2.13,0.24,0.67,0.69,0.61,0.31,0.17
+M4E,3895 Toronto Public Health,1.34,0.63,0.28,0.80,0.83,0.78,0.40,0.13
+M4G,3895 Toronto Public Health,1.55,0.83,0.33,0.85,0.85,0.81,0.44,0.18
+M4H,3895 Toronto Public Health,6.62,4.42,0.25,0.70,0.65,0.60,0.43,0.29
+M4J,3895 Toronto Public Health,2.25,1.67,0.24,0.66,0.68,0.64,0.30,0.13
+M4K,3895 Toronto Public Health,1.77,1.33,0.27,0.70,0.72,0.68,0.34,0.13
+M4L,3895 Toronto Public Health,1.68,1.02,0.23,0.75,0.72,0.68,0.32,0.12
+M4M,3895 Toronto Public Health,1.98,1.14,0.21,0.63,0.70,0.63,0.28,0.11
+M4N,3895 Toronto Public Health,1.72,1.08,0.33,0.84,0.82,0.77,0.42,0.17
+M4P,3895 Toronto Public Health,1.97,0.62,0.24,0.76,0.76,0.64,0.31,0.13
+M4R,3895 Toronto Public Health,1.54,0.60,0.29,0.81,0.84,0.78,0.42,0.16
+M4S,3895 Toronto Public Health,1.77,1.60,0.25,0.82,0.78,0.71,0.35,0.13
+M4T,3895 Toronto Public Health,1.49,0.76,0.36,0.84,0.83,0.77,0.45,0.15
+M4V,3895 Toronto Public Health,1.48,1.47,0.35,0.84,0.79,0.73,0.41,0.13
+M4W,3895 Toronto Public Health,1.43,0.81,0.35,0.82,0.78,0.73,0.41,0.13
+M4X,3895 Toronto Public Health,4.22,3.09,0.25,0.61,0.66,0.60,0.41,0.16
+M4Y,3895 Toronto Public Health,1.79,1.07,0.23,0.74,0.74,0.66,0.39,0.13
+M5A,3895 Toronto Public Health,3.03,2.79,0.23,0.68,0.67,0.58,0.41,0.14
+M5B,3895 Toronto Public Health,2.45,1.38,0.23,0.65,0.64,0.56,0.39,0.16
+M5C,3895 Toronto Public Health,2.10,0.86,0.22,0.60,0.73,0.60,0.29,0.11
+M5E,3895 Toronto Public Health,1.66,0.84,0.23,0.75,0.78,0.69,0.37,0.12
+M5G,3895 Toronto Public Health,1.24,0.77,0.22,0.64,0.59,0.53,0.27,0.20
+M5H,3895 Toronto Public Health,2.00,0.90,0.15,0.64,0.71,0.54,0.29,0.08
+M5J,3895 Toronto Public Health,1.22,0.17,0.19,0.76,0.73,0.61,0.27,0.09
+M5M,3895 Toronto Public Health,2.13,1.02,0.34,0.77,0.82,0.80,0.51,0.27
+M5N,3895 Toronto Public Health,3.42,2.85,0.35,0.79,0.78,0.74,0.58,0.29
+M5P,3895 Toronto Public Health,1.59,0.67,0.36,0.83,0.83,0.76,0.48,0.19
+M5R,3895 Toronto Public Health,1.72,1.53,0.31,0.78,0.73,0.66,0.36,0.12
+M5S,3895 Toronto Public Health,1.40,1.11,0.23,0.75,0.71,0.59,0.28,0.11
+M5T,3895 Toronto Public Health,2.37,2.07,0.21,0.64,0.63,0.52,0.21,0.10
+M5V,3895 Toronto Public Health,2.25,0.80,0.15,0.67,0.66,0.57,0.43,0.10
+M6A,3895 Toronto Public Health,6.17,4.40,0.23,0.73,0.65,0.57,0.36,0.20
+M6B,3895 Toronto Public Health,5.37,3.76,0.28,0.71,0.68,0.58,0.41,0.22
+M6C,3895 Toronto Public Health,2.69,2.05,0.29,0.67,0.71,0.68,0.39,0.23
+M6E,3895 Toronto Public Health,4.36,2.68,0.22,0.63,0.59,0.54,0.28,0.12
+M6G,3895 Toronto Public Health,1.88,1.83,0.26,0.72,0.73,0.68,0.33,0.13
+M6H,3895 Toronto Public Health,2.90,2.19,0.23,0.66,0.64,0.59,0.40,0.13
+M6J,3895 Toronto Public Health,2.17,1.56,0.20,0.63,0.67,0.61,0.27,0.11
+M6K,3895 Toronto Public Health,3.22,2.97,0.19,0.53,0.59,0.51,0.35,0.12
+M6L,3895 Toronto Public Health,7.07,6.48,0.25,0.74,0.67,0.56,0.34,0.13
+M6M,3895 Toronto Public Health,6.06,4.13,0.19,0.65,0.60,0.50,0.28,0.11
+M6N,3895 Toronto Public Health,5.20,3.81,0.21,0.60,0.59,0.51,0.30,0.10
+M6P,3895 Toronto Public Health,1.85,1.27,0.22,0.64,0.69,0.64,0.29,0.10
+M6R,3895 Toronto Public Health,1.77,1.33,0.24,0.65,0.69,0.68,0.37,0.13
+M6S,3895 Toronto Public Health,1.85,1.64,0.26,0.72,0.77,0.72,0.35,0.12
+M8V,3895 Toronto Public Health,2.72,1.98,0.26,0.70,0.69,0.61,0.39,0.11
+M8W,3895 Toronto Public Health,2.45,1.48,0.23,0.72,0.67,0.61,0.24,0.11
+M8X,3895 Toronto Public Health,1.71,2.19,0.40,0.85,0.86,0.80,0.47,0.17
+M8Y,3895 Toronto Public Health,2.27,1.03,0.22,0.68,0.67,0.60,0.28,0.10
+M8Z,3895 Toronto Public Health,3.27,1.19,0.26,0.75,0.71,0.67,0.34,0.14
+M9A,3895 Toronto Public Health,3.22,2.83,0.31,0.75,0.76,0.67,0.48,0.14
+M9B,3895 Toronto Public Health,2.90,1.85,0.28,0.75,0.74,0.67,0.46,0.13
+M9C,3895 Toronto Public Health,3.18,2.01,0.29,0.77,0.73,0.63,0.39,0.10
+M9L,3895 Toronto Public Health,7.61,4.80,0.22,0.73,0.64,0.46,0.29,0.10
+M9M,3895 Toronto Public Health,8.08,3.69,0.19,0.65,0.61,0.48,0.27,0.11
+M9N,3895 Toronto Public Health,6.19,5.15,0.20,0.65,0.59,0.53,0.31,0.10
+M9P,3895 Toronto Public Health,4.58,2.96,0.30,0.77,0.74,0.61,0.42,0.12
+M9R,3895 Toronto Public Health,4.87,3.51,0.24,0.74,0.69,0.58,0.36,0.10
+M9V,3895 Toronto Public Health,7.58,4.62,0.17,0.61,0.58,0.46,0.25,0.08
+M9W,3895 Toronto Public Health,6.00,3.23,0.22,0.68,0.64,0.55,0.34,0.10
+N0A,SHARED FSA,2.02,0.69,0.25,0.82,0.71,0.38,0.21,0.16
+N0B,SHARED FSA,1.57,0.61,0.25,0.84,0.78,0.51,0.26,0.14
+N0C,SHARED FSA,0.96,0.16,0.21,0.84,0.68,0.33,0.19,0.12
+N0E,SHARED FSA,1.68,0.69,0.23,0.85,0.77,0.39,0.16,0.13
+N0G,SHARED FSA,1.10,0.69,0.20,0.84,0.69,0.29,0.16,0.12
+N0H,2233 Grey Bruce Health Unit,0.38,0.18,0.29,0.86,0.75,0.34,0.24,0.18
+N0J,SHARED FSA,1.69,1.18,0.15,0.75,0.65,0.28,0.14,0.09
+N0K,SHARED FSA,0.92,0.54,0.17,0.86,0.78,0.19,0.14,0.10
+N0L,SHARED FSA,1.08,0.51,0.22,0.80,0.70,0.33,0.19,0.15
+N0M,SHARED FSA,0.92,0.22,0.25,0.85,0.77,0.31,0.21,0.15
+N0N,SHARED FSA,1.89,0.70,0.29,0.86,0.83,0.41,0.29,0.24
+N0P,SHARED FSA,2.22,0.95,0.25,0.85,0.79,0.48,0.18,0.11
+N0R,2268 Windsor-Essex County Health Unit,2.09,0.89,0.28,0.81,0.80,0.70,0.25,0.14
+N1A,SHARED FSA,2.04,0.73,0.24,0.86,0.66,0.37,0.22,0.14
+N1C,2266 Wellington-Dufferin-Guelph Health Unit,2.10,1.45,0.26,0.86,0.84,0.68,0.29,0.14
+N1E,2266 Wellington-Dufferin-Guelph Health Unit,1.93,0.72,0.21,0.87,0.77,0.52,0.23,0.12
+N1G,2266 Wellington-Dufferin-Guelph Health Unit,2.12,0.57,0.27,0.88,0.85,0.64,0.26,0.12
+N1H,SHARED FSA,2.29,1.13,0.24,0.84,0.75,0.53,0.24,0.11
+N1K,2266 Wellington-Dufferin-Guelph Health Unit,3.11,0.92,0.22,0.71,0.70,0.52,0.28,0.14
+N1L,2266 Wellington-Dufferin-Guelph Health Unit,2.28,1.06,0.19,0.83,0.76,0.57,0.21,0.13
+N1M,2266 Wellington-Dufferin-Guelph Health Unit,0.93,0.16,0.28,0.88,0.80,0.58,0.31,0.14
+N1P,2265 Region of Waterloo Public Health,1.83,0.35,0.16,0.66,0.72,0.40,0.20,0.16
+N1R,SHARED FSA,1.86,1.02,0.22,0.78,0.76,0.41,0.21,0.12
+N1S,2265 Region of Waterloo Public Health,1.60,0.85,0.26,0.82,0.82,0.55,0.28,0.15
+N1T,2265 Region of Waterloo Public Health,2.31,0.62,0.19,0.77,0.76,0.45,0.23,0.15
+N2A,2265 Region of Waterloo Public Health,1.89,1.39,0.21,0.81,0.74,0.45,0.24,0.13
+N2B,2265 Region of Waterloo Public Health,1.95,1.36,0.25,0.77,0.74,0.43,0.27,0.15
+N2C,2265 Region of Waterloo Public Health,2.89,1.31,0.20,0.80,0.76,0.35,0.19,0.11
+N2E,2265 Region of Waterloo Public Health,2.46,1.40,0.16,0.79,0.69,0.36,0.19,0.12
+N2G,2265 Region of Waterloo Public Health,1.98,2.09,0.22,0.80,0.73,0.38,0.22,0.14
+N2H,2265 Region of Waterloo Public Health,1.31,1.16,0.23,0.78,0.74,0.45,0.27,0.15
+N2J,2265 Region of Waterloo Public Health,1.57,1.08,0.26,0.86,0.79,0.47,0.25,0.12
+N2K,2265 Region of Waterloo Public Health,1.34,1.06,0.22,0.81,0.77,0.47,0.28,0.14
+N2L,2265 Region of Waterloo Public Health,1.67,0.85,0.24,0.87,0.82,0.48,0.26,0.13
+N2M,2265 Region of Waterloo Public Health,2.50,1.17,0.19,0.78,0.71,0.37,0.22,0.11
+N2N,2265 Region of Waterloo Public Health,1.91,0.92,0.21,0.76,0.76,0.42,0.26,0.15
+N2P,2265 Region of Waterloo Public Health,2.18,0.97,0.21,0.79,0.77,0.53,0.26,0.15
+N2R,2265 Region of Waterloo Public Health,2.45,0.49,0.12,0.64,0.67,0.39,0.19,0.12
+N2T,2265 Region of Waterloo Public Health,1.28,0.81,0.24,0.86,0.81,0.51,0.29,0.14
+N2V,2265 Region of Waterloo Public Health,1.06,0.47,0.18,0.75,0.72,0.43,0.23,0.14
+N2Z,SHARED FSA,0.40,0.00,0.28,0.90,0.84,0.38,0.21,0.13
+N3A,2265 Region of Waterloo Public Health,1.05,0.58,0.28,0.88,0.87,0.55,0.26,0.16
+N3B,2265 Region of Waterloo Public Health,2.38,1.86,0.24,0.79,0.79,0.54,0.28,0.14
+N3C,SHARED FSA,1.55,0.93,0.20,0.79,0.76,0.50,0.26,0.13
+N3E,2265 Region of Waterloo Public Health,3.47,1.32,0.12,0.52,0.68,0.47,0.19,0.09
+N3H,2265 Region of Waterloo Public Health,1.85,0.78,0.23,0.83,0.77,0.45,0.22,0.14
+N3L,SHARED FSA,1.36,0.74,0.26,0.86,0.86,0.56,0.21,0.12
+N3P,2227 Brant County Health Unit,1.61,0.65,0.21,0.75,0.81,0.54,0.17,0.10
+N3R,2227 Brant County Health Unit,1.22,0.29,0.28,0.84,0.82,0.54,0.18,0.12
+N3S,2227 Brant County Health Unit,1.59,0.72,0.18,0.76,0.72,0.41,0.12,0.09
+N3T,SHARED FSA,1.73,0.70,0.20,0.80,0.76,0.49,0.17,0.11
+N3V,2227 Brant County Health Unit,0.53,0.00,0.23,0.82,0.75,0.53,0.13,0.14
+N3W,SHARED FSA,1.85,0.38,0.21,0.89,0.79,0.47,0.24,0.15
+N3Y,2234 Haldimand-Norfolk Health Unit,1.28,0.80,0.27,0.85,0.76,0.37,0.18,0.15
+N4B,2234 Haldimand-Norfolk Health Unit,1.10,1.02,0.22,0.87,0.75,0.33,0.15,0.12
+N4G,SHARED FSA,1.41,0.67,0.23,0.81,0.67,0.29,0.15,0.09
+N4K,2233 Grey Bruce Health Unit,0.61,0.32,0.28,0.88,0.70,0.29,0.27,0.22
+N4L,2233 Grey Bruce Health Unit,0.43,0.34,0.30,0.87,0.71,0.28,0.26,0.18
+N4N,2233 Grey Bruce Health Unit,0.66,0.28,0.28,0.86,0.73,0.31,0.18,0.16
+N4S,2275 Southwestern Health Unit,1.17,0.39,0.20,0.84,0.71,0.31,0.16,0.09
+N4T,2275 Southwestern Health Unit,1.51,0.65,0.20,0.86,0.76,0.40,0.19,0.12
+N4V,2275 Southwestern Health Unit,1.01,0.86,0.23,0.87,0.77,0.36,0.23,0.11
+N4W,SHARED FSA,2.20,1.61,0.19,0.91,0.72,0.23,0.17,0.09
+N4X,SHARED FSA,0.59,0.29,0.24,0.89,0.85,0.23,0.17,0.14
+N4Z,2239 & 2254 Huron Perth Health Unit,1.36,1.17,0.20,0.85,0.86,0.23,0.18,0.16
+N5A,2239 & 2254 Huron Perth Health Unit,1.05,1.00,0.24,0.89,0.83,0.24,0.19,0.13
+N5C,2275 Southwestern Health Unit,0.94,0.18,0.19,0.83,0.71,0.31,0.18,0.12
+N5H,2275 Southwestern Health Unit,2.70,1.74,0.14,0.73,0.56,0.25,0.11,0.08
+N5L,2275 Southwestern Health Unit,0.67,0.84,0.34,0.80,0.82,0.44,0.22,0.16
+N5P,2275 Southwestern Health Unit,1.04,0.50,0.21,0.80,0.73,0.36,0.18,0.14
+N5R,2275 Southwestern Health Unit,1.09,0.70,0.25,0.85,0.77,0.37,0.20,0.14
+N5V,2244 Middlesex-London Health Unit,1.84,0.81,0.15,0.78,0.65,0.20,0.14,0.09
+N5W,2244 Middlesex-London Health Unit,1.25,0.81,0.15,0.77,0.62,0.18,0.12,0.08
+N5X,2244 Middlesex-London Health Unit,1.36,1.12,0.22,0.85,0.78,0.39,0.20,0.15
+N5Y,2244 Middlesex-London Health Unit,1.80,0.92,0.15,0.75,0.63,0.23,0.13,0.11
+N5Z,2244 Middlesex-London Health Unit,1.55,0.87,0.14,0.72,0.59,0.19,0.13,0.09
+N6A,2244 Middlesex-London Health Unit,4.03,1.15,0.25,0.84,0.75,0.35,0.22,0.14
+N6B,2244 Middlesex-London Health Unit,1.34,0.87,0.16,0.75,0.60,0.22,0.14,0.08
+N6C,2244 Middlesex-London Health Unit,1.29,1.17,0.22,0.83,0.72,0.31,0.20,0.13
+N6E,2244 Middlesex-London Health Unit,2.26,0.87,0.14,0.68,0.61,0.21,0.13,0.10
+N6G,2244 Middlesex-London Health Unit,1.67,0.51,0.21,0.86,0.74,0.40,0.20,0.15
+N6H,2244 Middlesex-London Health Unit,1.70,1.34,0.23,0.84,0.72,0.33,0.22,0.12
+N6J,2244 Middlesex-London Health Unit,1.23,0.84,0.23,0.83,0.70,0.29,0.18,0.11
+N6K,2244 Middlesex-London Health Unit,1.25,0.68,0.27,0.86,0.79,0.40,0.23,0.14
+N6L,2244 Middlesex-London Health Unit,2.92,0.62,0.13,0.73,0.66,0.25,0.16,0.10
+N6M,2244 Middlesex-London Health Unit,2.19,0.36,0.14,0.81,0.70,0.27,0.16,0.12
+N6N,2244 Middlesex-London Health Unit,0.80,0.00,0.18,0.67,0.58,0.16,0.22,0.08
+N6P,2244 Middlesex-London Health Unit,1.38,1.00,0.23,0.87,0.76,0.37,0.24,0.16
+N7A,2239 & 2254 Huron Perth Health Unit,0.31,0.00,0.30,0.91,0.85,0.24,0.20,0.14
+N7G,2244 Middlesex-London Health Unit,1.03,0.93,0.21,0.85,0.64,0.24,0.15,0.14
+N7L,2240 Chatham-Kent Health Unit,1.14,0.59,0.29,0.87,0.81,0.47,0.21,0.16
+N7M,2240 Chatham-Kent Health Unit,1.18,0.11,0.26,0.84,0.81,0.48,0.21,0.13
+N7S,2242 Lambton Health Unit,2.21,1.30,0.26,0.85,0.81,0.39,0.25,0.19
+N7T,2242 Lambton Health Unit,2.20,1.27,0.23,0.79,0.74,0.30,0.18,0.14
+N7V,2242 Lambton Health Unit,2.30,0.86,0.34,0.88,0.86,0.40,0.27,0.23
+N7W,2242 Lambton Health Unit,2.45,1.15,0.50,0.92,0.87,0.46,0.23,0.23
+N7X,2242 Lambton Health Unit,2.24,2.58,0.37,0.91,0.79,0.43,0.37,0.23
+N8A,SHARED FSA,3.07,0.66,0.25,0.78,0.72,0.38,0.18,0.14
+N8H,2268 Windsor-Essex County Health Unit,5.33,3.52,0.24,0.82,0.75,0.59,0.37,0.09
+N8M,2268 Windsor-Essex County Health Unit,2.06,1.08,0.28,0.82,0.78,0.68,0.25,0.13
+N8N,2268 Windsor-Essex County Health Unit,2.26,1.53,0.34,0.84,0.82,0.76,0.30,0.16
+N8P,2268 Windsor-Essex County Health Unit,2.74,0.81,0.31,0.85,0.82,0.74,0.21,0.12
+N8R,2268 Windsor-Essex County Health Unit,2.97,1.99,0.24,0.74,0.78,0.64,0.18,0.11
+N8S,2268 Windsor-Essex County Health Unit,2.36,2.39,0.32,0.84,0.81,0.71,0.24,0.13
+N8T,2268 Windsor-Essex County Health Unit,2.86,1.59,0.24,0.78,0.73,0.61,0.18,0.10
+N8W,2268 Windsor-Essex County Health Unit,2.42,1.34,0.24,0.76,0.74,0.67,0.22,0.12
+N8X,2268 Windsor-Essex County Health Unit,2.19,1.71,0.24,0.72,0.70,0.60,0.37,0.11
+N8Y,2268 Windsor-Essex County Health Unit,2.38,3.13,0.29,0.81,0.76,0.66,0.41,0.12
+N9A,2268 Windsor-Essex County Health Unit,3.31,3.22,0.22,0.67,0.64,0.53,0.31,0.09
+N9B,2268 Windsor-Essex County Health Unit,2.56,1.47,0.20,0.72,0.68,0.58,0.38,0.09
+N9C,2268 Windsor-Essex County Health Unit,2.69,2.10,0.21,0.74,0.70,0.60,0.38,0.08
+N9E,2268 Windsor-Essex County Health Unit,2.58,1.90,0.27,0.82,0.79,0.73,0.23,0.12
+N9G,2268 Windsor-Essex County Health Unit,2.55,1.41,0.23,0.80,0.77,0.69,0.20,0.12
+N9H,2268 Windsor-Essex County Health Unit,2.29,0.99,0.33,0.86,0.84,0.77,0.27,0.15
+N9J,2268 Windsor-Essex County Health Unit,1.97,0.88,0.29,0.88,0.85,0.76,0.29,0.15
+N9K,2268 Windsor-Essex County Health Unit,1.99,1.01,0.23,0.80,0.78,0.68,0.20,0.17
+N9V,2268 Windsor-Essex County Health Unit,1.81,0.92,0.33,0.83,0.85,0.75,0.30,0.16
+N9Y,2268 Windsor-Essex County Health Unit,5.12,1.82,0.34,0.84,0.82,0.73,0.52,0.14
+P0A,SHARED FSA,0.16,0.16,0.20,0.78,0.54,0.20,0.12,0.08
+P0B,2260 Simcoe Muskoka District Health Unit,0.58,0.29,0.23,0.83,0.71,0.29,0.19,0.10
+P0C,SHARED FSA,0.34,0.00,0.26,0.81,0.64,0.31,0.19,0.11
+P0E,2260 Simcoe Muskoka District Health Unit,0.59,0.80,0.24,0.80,0.68,0.29,0.19,0.13
+P0G,2247 North Bay Parry Sound District Health Unit,0.57,0.82,0.25,0.81,0.53,0.28,0.17,0.15
+P0H,SHARED FSA,0.21,0.17,0.23,0.81,0.66,0.33,0.16,0.13
+P0J,2263 Timiskaming Health Unit,0.25,0.13,0.29,0.85,0.78,0.51,0.28,0.16
+P0K,SHARED FSA,0.69,0.51,0.28,0.83,0.74,0.51,0.21,0.13
+P0L,2256 Porcupine Health Unit,0.57,0.26,0.19,0.71,0.64,0.47,0.16,0.09
+P0M,SHARED FSA,0.50,0.30,0.26,0.81,0.73,0.45,0.20,0.15
+P0N,2256 Porcupine Health Unit,0.55,0.30,0.26,0.78,0.76,0.66,0.22,0.16
+P0P,SHARED FSA,0.25,0.14,0.19,0.74,0.53,0.23,0.16,0.13
+P0R,2226 Algoma Public Health,0.26,0.23,0.28,0.84,0.72,0.25,0.20,0.22
+P0S,2226 Algoma Public Health,0.14,0.00,0.22,0.79,0.63,0.26,0.19,0.19
+P0T,SHARED FSA,0.88,0.55,0.25,0.78,0.70,0.31,0.25,0.25
+P0V,2249 Northwestern Health Unit,0.73,0.52,0.10,0.44,0.40,0.24,0.15,0.10
+P0W,2249 Northwestern Health Unit,0.93,0.41,0.17,0.59,0.44,0.29,0.18,0.12
+P0X,2249 Northwestern Health Unit,2.97,1.47,0.36,0.63,0.62,0.54,0.44,0.43
+P1A,2247 North Bay Parry Sound District Health Unit,0.36,0.38,0.26,0.86,0.80,0.40,0.21,0.15
+P1B,2247 North Bay Parry Sound District Health Unit,0.25,0.08,0.24,0.85,0.73,0.36,0.17,0.13
+P1C,2247 North Bay Parry Sound District Health Unit,0.17,0.00,0.28,0.89,0.86,0.59,0.29,0.24
+P1H,2260 Simcoe Muskoka District Health Unit,0.46,0.38,0.25,0.83,0.71,0.33,0.23,0.13
+P1L,2260 Simcoe Muskoka District Health Unit,0.38,0.16,0.26,0.86,0.72,0.31,0.23,0.15
+P1P,2260 Simcoe Muskoka District Health Unit,0.39,0.28,0.28,0.85,0.70,0.32,0.22,0.13
+P2A,2247 North Bay Parry Sound District Health Unit,0.37,0.20,0.23,0.82,0.48,0.26,0.18,0.15
+P2B,2247 North Bay Parry Sound District Health Unit,0.33,0.30,0.25,0.85,0.70,0.36,0.17,0.11
+P2N,2263 Timiskaming Health Unit,0.73,1.05,0.29,0.79,0.77,0.64,0.31,0.14
+P3A,2261 Sudbury and District Health Unit,1.11,0.66,0.31,0.88,0.82,0.60,0.25,0.19
+P3B,2261 Sudbury and District Health Unit,1.07,0.69,0.26,0.85,0.78,0.52,0.25,0.18
+P3C,2261 Sudbury and District Health Unit,1.18,0.71,0.22,0.85,0.73,0.44,0.19,0.13
+P3E,2261 Sudbury and District Health Unit,0.92,1.11,0.35,0.85,0.83,0.65,0.28,0.20
+P3G,2261 Sudbury and District Health Unit,1.23,0.00,0.32,0.83,0.83,0.68,0.30,0.20
+P3L,2261 Sudbury and District Health Unit,1.13,0.36,0.23,0.87,0.72,0.48,0.22,0.19
+P3N,2261 Sudbury and District Health Unit,0.74,0.36,0.22,0.79,0.63,0.38,0.22,0.18
+P3P,2261 Sudbury and District Health Unit,0.82,0.19,0.20,0.77,0.59,0.36,0.22,0.19
+P3Y,2261 Sudbury and District Health Unit,0.69,0.38,0.33,0.93,0.89,0.70,0.32,0.20
+P4N,2256 Porcupine Health Unit,0.41,0.55,0.28,0.82,0.76,0.63,0.22,0.18
+P4P,2256 Porcupine Health Unit,0.35,0.87,0.28,0.72,0.80,0.75,0.28,0.25
+P4R,2256 Porcupine Health Unit,0.41,0.65,0.27,0.85,0.80,0.74,0.26,0.25
+P5A,2226 Algoma Public Health,0.15,0.24,0.30,0.81,0.56,0.24,0.22,0.20
+P5E,2261 Sudbury and District Health Unit,0.13,0.00,0.21,0.86,0.69,0.16,0.15,0.15
+P5N,2256 Porcupine Health Unit,0.32,0.35,0.30,0.87,0.77,0.55,0.24,0.13
+P6A,2226 Algoma Public Health,0.31,0.08,0.24,0.82,0.62,0.24,0.23,0.21
+P6B,2226 Algoma Public Health,0.20,0.00,0.27,0.87,0.64,0.23,0.22,0.19
+P6C,2226 Algoma Public Health,0.20,0.15,0.22,0.82,0.60,0.19,0.18,0.19
+P7A,2262 Thunder Bay District Health Unit,1.70,1.23,0.33,0.83,0.77,0.28,0.34,0.31
+P7B,2262 Thunder Bay District Health Unit,2.05,1.08,0.33,0.85,0.77,0.31,0.36,0.31
+P7C,2262 Thunder Bay District Health Unit,2.18,1.47,0.31,0.82,0.76,0.26,0.33,0.30
+P7E,2262 Thunder Bay District Health Unit,1.83,1.64,0.30,0.83,0.74,0.26,0.31,0.28
+P7G,2262 Thunder Bay District Health Unit,1.05,0.24,0.29,0.84,0.77,0.27,0.34,0.33
+P7J,2262 Thunder Bay District Health Unit,1.35,0.54,0.30,0.81,0.80,0.34,0.42,0.41
+P7K,2262 Thunder Bay District Health Unit,1.01,0.94,0.31,0.86,0.79,0.25,0.34,0.32
+P7L,2262 Thunder Bay District Health Unit,1.72,1.61,0.22,0.67,0.62,0.26,0.22,0.23
+P8N,2249 Northwestern Health Unit,0.43,0.25,0.22,0.75,0.48,0.31,0.22,0.16
+P8T,2249 Northwestern Health Unit,1.03,0.44,0.16,0.62,0.57,0.24,0.22,0.21
+P9A,2249 Northwestern Health Unit,0.38,0.25,0.26,0.79,0.68,0.38,0.32,0.23
+P9N,2249 Northwestern Health Unit,0.72,0.54,0.32,0.80,0.69,0.48,0.35,0.32
