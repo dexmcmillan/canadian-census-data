@@ -1,38 +1,39 @@
 import pandas as pd
 import numpy as np
 import scipy.stats
-from sklearn.impute import SimpleImputer
-
-import matplotlib.pyplot as plt  # To visualize
 
 # Read in data.
-data = pd.read_csv("./data-combined.csv")
+data1 = pd.read_csv("./data-combined.csv")
+data2 = pd.read_csv("./data-other.csv")
+
+data = data1.join(data2, on="TOR_Code", how="left")
+data = data.drop("name", axis=1)
+data = data.fillna(0)
+data = data.drop(["TOR_Code", "Neighbourhood Number"], axis=1)
 
 # A list that will store rows for the final export.
-parts = []
+rows = []
+slice = data.iloc[:, 2:]
 
 # For each measure...
-for col in range(20):
-    
+for col in slice:
+    num = data.columns.get_loc(col)
     # ...prepare the data...
-    measure = data.columns[3+col]
-    X = data.iloc[:, 2].values.reshape(-1, 1)  # values converts it into a numpy array
-    Y = data.iloc[:, 3+col].values.reshape(-1, 1)  # -1 means that calculate the dimension of rows, but have 1 column
-    print(data.columns[2])
-    # (this handles any blank or N/A values in the data.)
-    imputer = SimpleImputer()
-    Y = imputer.fit_transform(Y)
+    measure = data.columns[num]
+    X = data["% population ACTUALLY vaccinated (55+ yo)"].values.reshape(-1, 1)  # values converts it into a numpy array
+    Y = data.iloc[:, num].values.reshape(-1, 1)  # -1 means that calculate the dimension of rows, but have 1 column
 
     result = scipy.stats.linregress(X[:,0], Y[:,0])
-    r_value = result.rvalue
-    p_value = result.pvalue
+    r_value = '{:.2f}'.format(result.rvalue)
+    p_value = '{:.2f}'.format(result.pvalue)
+    std_error = '{:.6f}'.format(result.stderr)
 
     # ..and finally put into a new dataframe that will be concatenated together at the end.
-    row = pd.DataFrame([[measure, '{:f}'.format(r_value), '{:f}'.format(p_value)]], columns=["measure", "r-value", "p-value"])
-    parts.append(row)
+    row = pd.DataFrame([[measure, r_value, p_value, std_error], columns=["measure", "r-value", "p-value", "standard error"])
+    rows.append(row)
 
 # Put everything in our parts list together into a dataframe for export.
-results = pd.concat(parts)
+results = pd.concat(rows)
 results.reset_index(drop=True, inplace=True)
 
 # Save and print it.

@@ -1,21 +1,26 @@
-,measure,r-value,p-value
-0,% reporting knowledge of neither English nor French (2016 census),-0.363401,0.000010
-1,% reporting mother tongue is neither English nor French (2016 census),-0.403396,0.000001
-2,% households earning LOWEST income (2016 census),-0.693251,0.000000
-3,% households earning HIGHEST income (2016 census),0.712523,0.000000
-4,Nb. households earning top 10% LOWEST income (bottom decile),-0.476296,0.000000
-5,Nb. households earning 10% HIGHEST income (top decile),0.444141,0.000000
-6,% Home Internet Download Speeds Over 50 Mbps (based on FSA),0.030574,0.719899
-7,% Fast or Very Fast Home Internet Service Relative to Needs (based on FSA),0.046897,0.582165
-8,% Worried About Ability to Pay Home Internet Bill (based on FSA),0.130594,0.124060
-9,% Driving to work (2016 census),0.293420,0.000434
-10,% Driving to work - passenger (2016 census),-0.209095,0.013163
-11,% Commuting to work in public transit (2016 census),-0.307289,0.000222
-12,% Walking to work (2016 census),-0.080992,0.341460
-13,% Cycling to work,-0.099228,0.243437
-14,% Labour Force Population in Manufacturing (2016 census),-0.390258,0.000002
-15,% Labour Force Population in Wholesale trade (2016 census),0.118351,0.163712
-16,% Labour Force Population in Retail trade (2016 census),-0.404907,0.000001
-17,% Labour Force Population in Transportation and warehousing (2016 census),-0.335021,0.000052
-18,% Labour Force Population in Health care and social assistance (2016 census),0.258624,0.002033
-19,% Labour Force Population in Accommodation and food services (2016 census),-0.519789,0.000000
+,measure,r-value,p-value,standard error
+0,% reporting knowledge of neither English nor French (2016 census),-0.36,0.00,0.064789
+1,% reporting mother tongue is neither English nor French (2016 census),-0.40,0.00,0.242616
+2,% households earning LOWEST income (2016 census),-0.69,0.00,0.188890
+3,% households earning HIGHEST income (2016 census),0.71,0.00,0.157240
+4,Nb. households earning top 10% LOWEST income (bottom decile),-0.48,0.00,98.473148
+5,Nb. households earning 10% HIGHEST income (top decile),0.44,0.00,36.808587
+6,% Home Internet Download Speeds Over 50 Mbps (based on FSA),-0.01,0.95,0.002454
+7,% Fast or Very Fast Home Internet Service Relative to Needs (based on FSA),0.01,0.91,0.001975
+8,% Worried About Ability to Pay Home Internet Bill (based on FSA),0.10,0.24,0.001993
+9,% Driving to work (2016 census),0.29,0.00,0.228233
+10,% Driving to work - passenger (2016 census),-0.21,0.01,0.032479
+11,% Commuting to work in public transit (2016 census),-0.31,0.00,0.143224
+12,% Walking to work (2016 census),-0.08,0.34,0.152973
+13,% Cycling to work,-0.10,0.24,0.068249
+14,% Labour Force Population in Manufacturing (2016 census),-0.39,0.00,0.060391
+15,% Labour Force Population in Wholesale trade (2016 census),0.12,0.16,0.015493
+16,% Labour Force Population in Retail trade (2016 census),-0.40,0.00,0.029478
+17,% Labour Force Population in Transportation and warehousing (2016 census),-0.34,0.00,0.032446
+18,% Labour Force Population in Health care and social assistance (2016 census),0.26,0.00,0.028718
+19,% Labour Force Population in Accommodation and food services (2016 census),-0.52,0.00,0.035242
+20,Nb. City-operated Immunization Clinic,-0.14,0.11,0.004252
+21,Nb. Hospital Immunization Clinic,-0.13,0.13,0.007267
+22,Nb. Pharmacy Immunization Site,-0.07,0.39,0.034465
+23,Total Vaccination Sites (except pop-up clinics),-0.10,0.22,0.038723
+24,% visible minority,-0.08,0.35,0.003814
