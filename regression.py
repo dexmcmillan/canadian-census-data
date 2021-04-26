@@ -28,7 +28,7 @@ for col in range(20):
     p_value = result.pvalue
 
     # ..and finally put into a new dataframe that will be concatenated together at the end.
-    row = pd.DataFrame([[measure, '{:f}'.format(r_value), '{:f}'.format(p_value)]])
+    row = pd.DataFrame([[measure, '{:f}'.format(r_value), '{:f}'.format(p_value)]], columns=["measure", "r-value", "p-value"])
     parts.append(row)
 
 # Put everything in our parts list together into a dataframe for export.
