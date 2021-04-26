@@ -115,3 +115,6 @@ dmypy.json
 
 # File is too large for github.
 data.csv
+
+# Leave archive behind.
+/archive
