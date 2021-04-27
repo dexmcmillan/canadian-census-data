@@ -21,7 +21,6 @@ pivot.columns = pivot.columns.astype(str)
 # Create a new dataframe and load up low income stat (see readme in statscan download)
 export = pivot[["857"]]
 
-
 # Join ICES vaccination rate data to census data.
 export = export.join(ices_data[["% Vaccinated with at least 1 dose\n(All ages)"]], on="GEO_NAME")
 

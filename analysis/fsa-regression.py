@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import scipy.stats
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # Read in data.
 data = pd.read_csv("../data/data-fsa-clean.csv")
@@ -10,15 +10,15 @@ data = pd.read_csv("../data/data-fsa-clean.csv")
 rows = []
 
 # Get only numerical columns.
-slice = data.iloc[:, 1:]
+census_columns = data.iloc[:, 1:]
 
 # For each measure...
-for col in slice:
-    num = data.columns.get_loc(col)
+for col in census_columns:
+    col_number = data.columns.get_loc(col)
     # ...prepare the data...
-    measure_name = data.columns[num]
+    measure_name = data.columns[col_number]
     X = data["% vaccinated"].values.reshape(-1, 1)  # values converts it into a numpy array
-    Y = data.iloc[:, num].values.reshape(-1, 1)  # -1 means that calculate the dimension of rows, but have 1 column
+    Y = data.iloc[:, col_number].values.reshape(-1, 1)  # -1 means that calculate the dimension of rows, but have 1 column
 
     result = scipy.stats.linregress(X[:,0], Y[:,0])
     r_value = '{:.2f}'.format(result.rvalue)
