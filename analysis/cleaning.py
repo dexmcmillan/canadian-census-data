@@ -11,11 +11,11 @@ data.reset_index(inplace=True)
 data = data.rename(columns=lambda x: x.strip())
 data = data.rename(columns={"index": "name"})
 
+export = data[["Neighbourhood Number", "name"]]
 
-data["% visible minority"] = data["Total visible minority population"].replace(',', "").astype(float) / (data["Total visible minority population"].replace(',', "").astype(float) + data["Not a visible minority"].replace(',', "").astype(float))
-data.sort_values("% visible minority", inplace=True)
-export = data[["Neighbourhood Number", "name", "% visible minority", "Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)"]]
-export["Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)"] = export["Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)"]/100
+export["% visible minority"] = data["Total visible minority population"].replace(',', "").astype(float) / (data["Total visible minority population"].replace(',', "").astype(float) + data["Not a visible minority"].replace(',', "").astype(float))
+export["Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)"] = data["Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)"]/100
+export["Average total income in 2015 among recipients ($)"] = data["Average total income in 2015 among recipients ($)"].replace(",", "")
 export.set_index("Neighbourhood Number", inplace=True)
 print(export)
 export.to_csv("./data-other.csv")
