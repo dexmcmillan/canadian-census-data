@@ -4,7 +4,7 @@ import scipy.stats
 # import matplotlib.pyplot as plt
 
 # Read in data.
-data = pd.read_csv("../data/data-fsa-clean.csv")
+data = pd.read_csv("../data/data-fsa-urban-clean.csv")
 
 # A list that will store rows for the final export.
 rows = []
@@ -35,5 +35,5 @@ results = pd.concat(rows)
 results.reset_index(drop=True, inplace=True)
 
 # Save and print it.
-results.to_csv("../fsa-results.csv")
+results.to_csv("../fsa-results-urban.csv")
 print(results)

@@ -40,5 +40,5 @@ results = pd.concat(rows)
 results.reset_index(drop=True, inplace=True)
 
 # Save and print it.
-results.to_csv("./results.csv")
+results.to_csv("../data/neighbourhood-results-apr26.csv")
 print(results)
